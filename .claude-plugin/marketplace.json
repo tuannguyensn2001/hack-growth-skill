@@ -1,0 +1,16 @@
+{
+  "name": "hack-growth",
+  "owner": {
+    "name": "tuannguyensn2001"
+  },
+  "description": "Self-study skills for AI agents, as an installable Claude Code plugin.",
+  "plugins": [
+    {
+      "name": "hack-growth",
+      "source": "./",
+      "description": "Agent skills for self-study: onboarding, overview, walkthrough, explain, engineering-blog, verify, curiosity.",
+      "category": "learning",
+      "keywords": ["learning", "self-study", "education", "skills"]
+    }
+  ]
+}

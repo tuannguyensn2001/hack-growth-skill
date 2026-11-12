@@ -1,0 +1,19 @@
+{
+  "name": "hack-growth",
+  "version": "0.1.1",
+  "description": "Agent skills for self-study: learner onboarding, source triage, guided walkthroughs, diagnostic explanations, engineering-blog breakdowns, strict adaptive verification, and curiosity hooks, with a persistent learning home.",
+  "author": {
+    "name": "tuannguyensn2001"
+  },
+  "repository": "https://github.com/tuannguyensn2001/hack-growth-skill",
+  "keywords": ["learning", "self-study", "education", "skills", "tutor"],
+  "skills": [
+    "./skills/onboarding",
+    "./skills/overview",
+    "./skills/walkthrough",
+    "./skills/explain",
+    "./skills/engineering-blog",
+    "./skills/verify",
+    "./skills/curiosity"
+  ]
+}
